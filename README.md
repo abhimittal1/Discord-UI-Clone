@@ -86,7 +86,7 @@ You can deploy this using:
 ## 🧑‍💻 Author
 
 **Abhishek Mittal**  
-GitHub: [@abhishekmittal2306](https://github.com/abhishekmittal2306)  
+GitHub: [@abhishekmittal2306](https://github.com/abhimittal1)  
 Feel free to connect and share feedback!
 
 ---
