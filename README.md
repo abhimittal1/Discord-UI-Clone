@@ -8,12 +8,12 @@ A responsive and pixel-perfect clone of the official [Discord](https://discord.c
 
 ### 💻 Desktop View
 
-![Desktop](./images/SS1.svg)
+![Desktop](./images/SS1.png)
 
 ### 📱 Mobile View
 
-![Mobile](./images/SS4.svg)
-![Mobile](./images/SS5.svg)
+![Mobile](./images/SS4.png)
+![Mobile](./images/SS5.png)
 
 ---
 
